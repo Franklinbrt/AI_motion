@@ -1,5 +1,12 @@
-# User Settings
+# Configurações do usuário
 user_settings:
-    client_id:'ng3zVDs7S7Xj7soFTRemnA',
-    client_secret:'uBOV7z9kSFSjRjcMdD0Zg1qZbKmRuA',
+    client_id:'ng3zVDs7S7Xj7soFTRemnA'
+    client_secret:'uBOV7z9kSFSjRjcMdD0Zg1qZbKmRuA'
     user_agent:'YOUR_USER_AGENT' # don't need to change
+
+#Períodos a serem selecionados pelo usuário
+period:
+    data_inicial:'2021-05-31'
+    hora_inicial:'16:00:00'
+    data_final:'2022-08-31'
+    hora_final:'16:00:00'
