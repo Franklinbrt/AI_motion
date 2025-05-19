@@ -1,0 +1,5 @@
+# User Settings
+user_settings:
+    client_id:'ng3zVDs7S7Xj7soFTRemnA',
+    client_secret:'uBOV7z9kSFSjRjcMdD0Zg1qZbKmRuA',
+    user_agent:'YOUR_USER_AGENT' # don't need to change
